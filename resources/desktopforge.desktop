@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=DesktopFileForge
+GenericName=Desktop Entry Editor
+Comment=Create and edit .desktop launcher files with a graphical UI
+Exec=desktopforge
+Icon=desktopforge
+Terminal=false
+StartupNotify=true
+Categories=System;Utility;Qt;
+Keywords=desktop;launcher;entry;xdg;freedesktop;
