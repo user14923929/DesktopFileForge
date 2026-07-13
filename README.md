@@ -44,11 +44,11 @@ sudo cmake --install build
 ## Installing (AUR)
 
 ```bash
-paru -S desktopfileforge
+paru -S desktopforge
 ```
 or
 ```bash
-yay -S desktopfileforge
+yay -S desktopforge
 ```
 
 This installs the binary, a `.desktop` launcher entry, and an app icon.
